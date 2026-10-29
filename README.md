@@ -639,6 +639,8 @@ executable assertion, what the module is supposed to do.
 
 ## License
 
-No license file is included yet. Without one, default copyright applies and
-others may not reuse the code. If you want it to be openly reusable, add an
-MIT or Apache-2.0 `LICENSE` file before publishing.
+Released under the [MIT License](LICENSE) — © 2026 Gatik Jain.
+
+You may use, copy, modify and distribute this code, including commercially,
+provided the copyright notice and licence text are kept. The software is
+provided without warranty.
