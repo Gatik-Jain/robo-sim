@@ -87,11 +87,7 @@ Everything listed here is implemented and covered by the test suite.
 ---
 
 ## Live application
-
-**Not yet deployed.** No public URL exists for this project at the time of
-writing, and none is invented here. Once you have deployed it by following the
-[deployment guide](#deployment-guide) below, replace this section with the real
-URL that Streamlit Community Cloud gives you.
+https://www.gatikjain.com/RoboticArmSimulator/
 
 ---
 
