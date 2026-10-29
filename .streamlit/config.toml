@@ -1,0 +1,18 @@
+# Streamlit configuration for ROBO-SIM.
+# The palette matches robo_sim/config.py so the chrome and the Plotly figures
+# form one consistent dark engineering theme.
+
+[theme]
+base = "dark"
+primaryColor = "#4c9be8"
+backgroundColor = "#0f1419"
+secondaryBackgroundColor = "#161c23"
+textColor = "#d8e0e8"
+
+[server]
+# The simulator needs no file uploads; keeping the cap small avoids holding
+# large request bodies on a small hosted instance.
+maxUploadSize = 2
+
+[browser]
+gatherUsageStats = false
